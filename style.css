@@ -1,0 +1,39 @@
+.centerClass {
+	text-align: center;
+
+}
+.colorRed {
+	color: red;
+}
+.colorBlue {
+
+	color: blue;
+}
+.colorGreen {
+	color: green;
+}
+.fontBig {
+	font-size:  30px;
+}
+.fontSmall {
+	font-size:  11px;
+}
+.fontBold	{ 
+	font-weight: bold;
+
+}
+.fontStyle{
+	font-family: sans-serif;
+
+}
+.colorOrange {
+ 	color:orange;
+}
+.styledFont {
+	color: pink;
+}
+#styledImage {
+	border-color: purple;
+	border-style: solid;
+	border-width: 100px 100px 100px 100px 	
+}
